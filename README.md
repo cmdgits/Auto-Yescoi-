@@ -1,6 +1,6 @@
 # Auto-Yescoi-
 YesCoin (Vàng). Theo dõi github của tôi và cũng cho tôi sao nếu bạn thích công cụ này :)
-Features
+**Features
 Auto 1x Tap
 Auto Claim Task
 Auto Join Squad Ghalibie
@@ -10,4 +10,4 @@ Can Set Max Level (default 5)
 Auto Use Energy Refill
 Auto Use Chest
 Auto Get Free Chest
-Multi Account
+Multi Account**
