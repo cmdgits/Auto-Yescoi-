@@ -1,2 +1,1 @@
-user=%7B%22id%22%3A6800804130%2C%22first_name%22%3A%22Vitamin%22%2C%22last_name%22%3A%22%F0%9F%87%BB%F0%9F%87%B3%22%2C%22username%22%3A%22vitamingoo%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=3941021177835959724&chat_type=sender&auth_date=1722777963&hash=be378e2bba8a0cb63c00a432a295362ad7a94c8ad52e54a77fc1761fe9a61e9a
-user=%7B%22id%22%3A6515812857%2C%22first_name%22%3A%22C%C3%A1%22%2C%22last_name%22%3A%22R%C3%B4%20phi%20%F0%9F%A6%B4%22%2C%22username%22%3A%22carophido%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=6807668658400018662&chat_type=sender&auth_date=1722777995&hash=2536fc5d67f2e2b54d66d6a5aefd69b1bb8336d1c0a8993cc062ca186a92ba8b
+
